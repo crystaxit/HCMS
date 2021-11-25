@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user selects No option</description>
+   <name>MedicalTest-Case1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9edc6b2-2451-4b6c-ae0a-209414b62726</testCaseGuid>
+</TestCaseEntity>

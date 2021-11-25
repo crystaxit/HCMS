@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks and verify report page</description>
+   <name>VerifyReportPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a63a4278-f7ea-418c-9284-790b7fe647b5</testCaseGuid>
+</TestCaseEntity>

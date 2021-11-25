@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When No medication is taken</description>
+   <name>Medication-Case1_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa7e2a81-25e7-46a2-82d6-5780b39cf279</testCaseGuid>
+</TestCaseEntity>
